@@ -1,0 +1,8 @@
+com\acme\cxf\SecureServer.class
+com\acme\cxf\model\Person.class
+com\acme\cxf\security\UTPasswordCallback.class
+com\acme\cxf\impl\HelloServiceImpl.class
+com\example\App.class
+com\acme\cxf\api\HelloService.class
+com\acme\cxf\Server.class
+com\acme\cxf\client\ClientDemo.class
